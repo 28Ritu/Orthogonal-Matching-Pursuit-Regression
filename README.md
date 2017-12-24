@@ -1,2 +1,2 @@
 # Regression
-Regression Task on UCI Machine Repository in MATLAB
+Regression Task using Orthogonal Matching Pursuit (OMP) on UCI Machine Repository in MATLAB 
